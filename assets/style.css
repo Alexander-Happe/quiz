@@ -14,15 +14,10 @@ body{
     text-align: center;
     background-color: white;
 }
-#start {
-    background-color: purple;
-    color: white;
-    align-content: center;
-}
+
 button {
     background-color: purple;
     color: white;
-    align-content: center;
     padding: 10px;
 }
 .col-6 {
@@ -30,4 +25,13 @@ button {
     padding-bottom: 20px;
     text-align: center;
     padding-top: 20px;
+}
+.hide {
+    display: none;
+}
+.questionbttn {
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
