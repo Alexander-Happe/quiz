@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+}
+#timer {
+    background-color: white;
+    margin-top: 20px;
+}
+#title {
+    color: purple;
+    text-align: center;
+    background-color: white;
+}
+#info {
+    text-align: center;
+    background-color: white;
+}
+#start {
+    background-color: purple;
+    color: white;
+    align-content: center;
+}
+button {
+    background-color: purple;
+    color: white;
+    align-content: center;
+    padding: 10px;
+}
+.col-6 {
+    background-color: white;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
